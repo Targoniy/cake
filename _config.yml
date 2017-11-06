@@ -1,0 +1,3 @@
+markdown: redcartet
+baseurl: /cake
+exlude: ['README.dm']
